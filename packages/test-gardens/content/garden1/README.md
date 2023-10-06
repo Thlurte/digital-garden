@@ -8,7 +8,7 @@ Here, we record topics related to the courses we follow, these discussions are m
 
 ### Notes
 - AGM4367 | **Economics and Marketing for Engineers**
-	- [[N Unit-01]]
+	- [[N-Unit-01]]
 	- [[AGM4367/N Unit-02 S-06|N Unit-02 S-06]]
 	- [[AGM4367/N Unit-02 S-07|N Unit-02 S-07]]
 	- [[AGM4367/N Unit-02 S-08|N Unit-02 S-08]]
