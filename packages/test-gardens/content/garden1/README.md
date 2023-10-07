@@ -1,5 +1,12 @@
 # Aide Memoire
 
+<div align="center">
+  <img src="https://media.tenor.com/RodoTN3gIW0AAAAC/back-to-school-reading.gif"  alt="image"  />
+  <img width="12" />
+ 
+</div>
+<hr>
+
 Here, we record topics related to the courses we follow, these discussions are merely for our purposes on enhancing the understanding of subject matters...
 
 ## Courses
