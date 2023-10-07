@@ -11,14 +11,3 @@ Here, we record topics related to the courses we follow, these discussions are m
 - [[EEX4373]] | **Data Science**
 
 
-## Features
-- **Collaborative note-taking**
-- **Version history**
-- **Rich formatting**
-- **Search and filter**
-- **LaTex support**
-
-## Upcoming Features
- - [ ] **Spaced repetition with flashcards**
- - [ ] **Advanced collaboration tools**
-
